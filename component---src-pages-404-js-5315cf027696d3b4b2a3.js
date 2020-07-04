@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w2l6:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return r}));var a=t("q1tI"),l=t.n(a),o=t("7oih");function r(){return l.a.createElement(o.a,{title:"404"},l.a.createElement("h1",null,"404"),l.a.createElement("p",null,"Nie znaleziono strony."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-5315cf027696d3b4b2a3.js.map
